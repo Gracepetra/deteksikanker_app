@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1vtz8jelF_bNTMY7tGeMp9DA1mJNtLkbB
 """
 
-!pip install ucimlrepo
-
 from ucimlrepo import fetch_ucirepo
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
